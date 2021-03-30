@@ -1,0 +1,13 @@
+.metadata/
+
+.settings/
+Debug/
+
+.cproject
+.mxproject
+.project
+STM32F439ZITX_FLASH.ld
+STM32F439ZITX_RAM.ld
+*.cfg
+*.launch
+*.ioc
