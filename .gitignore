@@ -2,6 +2,7 @@
 
 .settings/
 Debug/
+.Startup/
 
 .cproject
 .mxproject
