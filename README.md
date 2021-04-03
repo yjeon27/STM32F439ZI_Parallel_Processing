@@ -8,3 +8,5 @@
 - (error) undefined reference to extern... main.c, stm32f4xx_it.c
 
 ## (X) test 2 - SD Card Reader
+
+## (X) alt_i2c, alt_i2c2 - Different API
