@@ -1,4 +1,7 @@
-# STM32F439ZI_Parallel_Processing
+# STM32F439ZI_Parallel_Process
+## Implementing parallel processing over 3 STM32F439ZI development boards in SPI configuration for image processing algorithms
+
+# to be updated shortly
 
 ## :heavy_check_mark:i2c_noAPI
 - i2c_detect() credits to https://github.com/ferenc-nemeth/stm32-i2cdetect
